@@ -1,1 +1,2 @@
 
+We have created a MNIST Digit handwriting model which gives us the accuracy of 96 percent.We have created an articial neural network (ANN) with 3 layers which consists of 2 input layers of softmax and 1 ouput layer of relu.In first input layer, we have 512 tensors and in second layer we have 34 tensors and in output layer we have 1 output. We use the adam optimizer to prevent the overfitting of the model. We have the softmax_entropy_loss to reduce the loss of the model.
