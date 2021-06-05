@@ -1,7 +1,7 @@
 
 ## To run this model:
 
-You have to create a folder name 'Public' and copy the folders **"TFJS, css, images, vendor"** into the public folder.
+You have to create a folder name 'Public' and copy the folders **"TFJS, css, images, vendor"** and files "**drawing.js, math.js and processing.js**" into the public folder.
 
 Now install npm and run the command **npm-install**.
 
